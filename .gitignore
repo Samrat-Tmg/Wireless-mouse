@@ -1,0 +1,86 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+
+# Logging
+*.log
+logs/
+
+# Configuration
+config.ini
+*.local.ini
+secrets.json
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+
+# Build artifacts
+*.o
+*.a
+*.dylib
+*.dll
+*.exe
+
+# OS-specific
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Bluetooth/Pairing data
+.bluez/
+*.pairing
+
+# Mobile build artifacts
+ios/Pods/
+android/.gradle/
+android/local.properties

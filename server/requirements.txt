@@ -1,0 +1,7 @@
+# Core dependencies
+# pybluez==0.23; sys_platform != 'win32'  # Bluetooth support (optional)
+# pynput==1.7.6  # Cross-platform input control (optional)
+
+# Development dependencies  
+pytest>=6.0.0          # Testing framework
+python-dotenv>=0.19.0  # Environment configuration

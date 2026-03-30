@@ -1,0 +1,7 @@
+"""Test suite configuration and fixtures."""
+import sys
+import os
+
+# Add server module to path
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '../server'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '../protocol'))
